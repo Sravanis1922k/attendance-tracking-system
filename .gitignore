@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+venv/
+env/
+.env
+.venv
+
+# Attendance data (contains personal info - never commit)
+attendance_log.csv
+*.csv
+
+# Known faces (contains personal photos - never commit)
+known_faces/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
+logs/
+
+# Video/image test files
+*.mp4
+*.avi
+*.mov
+*.jpg
+*.jpeg
+*.png
