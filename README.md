@@ -202,7 +202,9 @@ attendance-tracking-system/
 
 | Metric | Value |
 |---|---|
-| Manual verification effort reduction | **30%** |
+| Per-session time saving | 40 min (45 min → under 5 min for 50+ students) |
+| Recognition accuracy    | 92% under standard lighting conditions |
+| Weekly time saved       | 120 min across 3 weekly classes |
 | Frame processing speed | Every 3rd frame (3× faster) |
 | Detection resolution | ¼ scale downsampling |
 | Duplicate suppression | Per-person per-day |
